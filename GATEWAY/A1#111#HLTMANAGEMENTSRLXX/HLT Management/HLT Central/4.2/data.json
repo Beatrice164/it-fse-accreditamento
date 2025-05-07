@@ -1,129 +1,129 @@
 {
-  "appVendor": "",
-  "appID": "",
-  "appVersion": "1.0",
+  "appVendor": "HLT Management",
+  "appID": "HLT Central",
+  "appVersion": "4.2",
   "results": [
     {
       "id": 1,
-      "ts": "2025-01-20T11:17:55.3727352+01:00",
-      "traceId": "fd2e6def4cab0336",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.2bf7b6f355^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:44Z",
+      "traceId": "3eb4307e2458f873",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.0f1a909602^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 2,
-      "ts": "2025-01-20T11:17:55.9997542+01:00",
-      "traceId": "60cf8e9bcfd6ce12",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bd293207f0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:45Z",
+      "traceId": "5e2d41fc22ff283a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1ee6d37a63^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 2_injected.pdf"
       ]
     },
     {
       "id": 3,
-      "ts": "2025-01-20T11:17:56.6099753+01:00",
-      "traceId": "9589dd8d91521336",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.b1142c98c9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:45Z",
+      "traceId": "b65590ebba8149a0",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e5b0c5d9d3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 3_injected.pdf"
       ]
     },
     {
       "id": 4,
-      "ts": "2025-01-20T11:17:57.209315+01:00",
-      "traceId": "3909a38702202edc",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9e4ced549f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:46Z",
+      "traceId": "8163f8a5c3989ba9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.93ad2385a2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 4_injected.pdf"
       ]
     },
     {
       "id": 5,
-      "ts": "2025-01-20T11:17:57.8486779+01:00",
-      "traceId": "44ad8dea4527f936",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e68bc82782^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:47Z",
+      "traceId": "ae96ce3bdff57a44",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.dd5f70a3c9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 5_injected.pdf"
       ]
     },
     {
       "id": 6,
-      "ts": "2025-01-20T11:17:58.4190911+01:00",
-      "traceId": "b3112e1938b6b13e",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.8dcf753e30^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:48Z",
+      "traceId": "9c64c91f2630d1a2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3d63858bef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 7,
-      "ts": "2025-01-20T11:17:59.0355889+01:00",
-      "traceId": "ad09cbf49bf5388c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.070a296741^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:48Z",
+      "traceId": "eff658fabdbf1871",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e821ceabdc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 2_injected.pdf"
       ]
     },
     {
       "id": 8,
-      "ts": "2025-01-20T11:17:59.9389783+01:00",
-      "traceId": "c4eb1456c6589dae",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bbaeeced2a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:49Z",
+      "traceId": "a67d3453129ee377",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.8a5bd927f8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 3_injected.pdf"
       ]
     },
     {
       "id": 9,
-      "ts": "2025-01-20T11:18:00.6206469+01:00",
-      "traceId": "7e00d9c878a5f971",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3e332bb1ae^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:50Z",
+      "traceId": "43a9ac18326015cb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.299ff41581^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 4_injected.pdf"
       ]
     },
     {
       "id": 24,
-      "ts": "2025-01-20T11:18:01.2668676+01:00",
-      "traceId": "01e3acaf737ce0f3",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c136656aec^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:50Z",
+      "traceId": "3fd3071a40afb0f1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.163d1cb4c4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 25,
-      "ts": "2025-01-20T11:18:02.2237079+01:00",
-      "traceId": "7d7da4788986349f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7bee460228^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:51Z",
+      "traceId": "4cfbbd2a116600f8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e827683813^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 2_injected.pdf"
       ]
     },
     {
       "id": 26,
-      "ts": "2025-01-20T11:18:03.1490261+01:00",
-      "traceId": "e663f8af61d75efd",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.030ce7f126^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:52Z",
+      "traceId": "eb5eb653d4623b9d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.5dd95bea26^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 3_injected.pdf"
       ]
     },
     {
       "id": 27,
-      "ts": "2025-01-20T11:18:04.1031983+01:00",
-      "traceId": "f2efc2f51b44c78d",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.734f39eace^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:52Z",
+      "traceId": "6249076fc199fb82",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e1ef6f2484^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 4_injected.pdf"
       ]
     },
     {
       "id": 28,
-      "ts": "2025-01-20T11:18:11.0894602+01:00",
-      "traceId": "fb72384a24d394c9",
+      "ts": "2025-01-30T08:20:53Z",
+      "traceId": "cfe9b755f8bd5b72",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "LAB - Caso di Test 1_injected.pdf"
@@ -131,8 +131,8 @@
     },
     {
       "id": 29,
-      "ts": "2025-01-20T11:18:17.9988973+01:00",
-      "traceId": "b885c176676f3c20",
+      "ts": "2025-01-30T08:20:54Z",
+      "traceId": "dee227b4382e0641",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "LDO - Caso di Test 1_injected.pdf"
@@ -140,8 +140,8 @@
     },
     {
       "id": 31,
-      "ts": "2025-01-20T11:18:25.0376612+01:00",
-      "traceId": "f16f16989e1572a6",
+      "ts": "2025-01-30T08:20:54Z",
+      "traceId": "0199419d03852761",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "RAD - Caso di Test 1_injected.pdf"
@@ -149,8 +149,8 @@
     },
     {
       "id": 32,
-      "ts": "2025-01-20T11:18:32.1070301+01:00",
-      "traceId": "6bd9e6fbfe980e41",
+      "ts": "2025-01-30T08:20:55Z",
+      "traceId": "f68de63b4fd033c1",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "RSA - Caso di Test 1_injected.pdf"
@@ -158,8 +158,8 @@
     },
     {
       "id": 35,
-      "ts": "2025-01-20T11:18:39.3239169+01:00",
-      "traceId": "c59f5dff46983ce9",
+      "ts": "2025-01-30T08:20:55Z",
+      "traceId": "23ef465edecd0431",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "VPS - Caso di Test 1_injected.pdf"
@@ -167,8 +167,8 @@
     },
     {
       "id": 36,
-      "ts": "2025-01-20T11:18:46.4793074+01:00",
-      "traceId": "745c5db97b32350b",
+      "ts": "2025-01-30T08:20:56Z",
+      "traceId": "d814e882b94d9426",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "LAB - Caso di Test 1_injected.pdf"
@@ -176,8 +176,8 @@
     },
     {
       "id": 37,
-      "ts": "2025-01-20T11:18:53.549983+01:00",
-      "traceId": "e4479577c9fa7e0d",
+      "ts": "2025-01-30T08:20:56Z",
+      "traceId": "250f476c06d02a0f",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "LDO - Caso di Test 1_injected.pdf"
@@ -185,8 +185,8 @@
     },
     {
       "id": 39,
-      "ts": "2025-01-20T11:19:00.5540156+01:00",
-      "traceId": "bba37cf11c6d6928",
+      "ts": "2025-01-30T08:20:57Z",
+      "traceId": "c922ea5a6a4f65b9",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "RAD - Caso di Test 1_injected.pdf"
@@ -194,8 +194,8 @@
     },
     {
       "id": 40,
-      "ts": "2025-01-20T11:19:07.6542074+01:00",
-      "traceId": "113248101bec4d29",
+      "ts": "2025-01-30T08:20:57Z",
+      "traceId": "ffe3926a9f87923a",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "RSA - Caso di Test 1_injected.pdf"
@@ -203,8 +203,8 @@
     },
     {
       "id": 43,
-      "ts": "2025-01-20T11:19:14.6544468+01:00",
-      "traceId": "5e6034f7453e78d2",
+      "ts": "2025-01-30T08:20:58Z",
+      "traceId": "a110df049324e543",
       "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
       "files": [
         "VPS - Caso di Test 1_injected.pdf"
@@ -212,882 +212,882 @@
     },
     {
       "id": 52,
-      "ts": "2025-01-20T11:19:21.7102712+01:00",
-      "traceId": "1ee5359b61ed2e20",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ac79a5e794^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:59Z",
+      "traceId": "5b9a3e0bdfc6ff98",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7c63ce63c1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 6_injected.pdf"
       ]
     },
     {
       "id": 53,
-      "ts": "2025-01-20T11:19:28.7884275+01:00",
-      "traceId": "0be456ae29220519",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.282cae8f99^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:20:59Z",
+      "traceId": "a776bfbe16c61537",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4ab26db7bf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 7_injected.pdf"
       ]
     },
     {
       "id": 54,
-      "ts": "2025-01-20T11:19:36.0434305+01:00",
-      "traceId": "f508cc4d9a401245",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.297bcac29a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:00Z",
+      "traceId": "1776e7b809f3b30a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.102daaa35e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 8_injected.pdf"
       ]
     },
     {
       "id": 55,
-      "ts": "2025-01-20T11:19:43.3517634+01:00",
-      "traceId": "c8406796b0d3a18c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.edb0c7f7fd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:00Z",
+      "traceId": "06095a05ae89d92a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1155caed5d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 9_injected.pdf"
       ]
     },
     {
       "id": 56,
-      "ts": "2025-01-20T11:19:50.5482886+01:00",
-      "traceId": "633fe6b31270bcc4",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3406d0140f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:01Z",
+      "traceId": "ed95e83e8bf5f71c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1e5f4b85cf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 10_injected.pdf"
       ]
     },
     {
       "id": 57,
-      "ts": "2025-01-20T11:19:57.7036437+01:00",
-      "traceId": "e3a4f9e5b34f429f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9ef410b285^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:02Z",
+      "traceId": "c0db4e0c7fbc55a4",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.344aa9165a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 11_injected.pdf"
       ]
     },
     {
       "id": 58,
-      "ts": "2025-01-20T11:20:04.7762966+01:00",
-      "traceId": "1869b80487ab2f38",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.88ccae1fe6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:03Z",
+      "traceId": "6f4ab9636e1a65bc",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6d136fccef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 12_injected.pdf"
       ]
     },
     {
       "id": 59,
-      "ts": "2025-01-20T11:20:12.0361502+01:00",
-      "traceId": "7993e6741176b404",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f715d09061^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:03Z",
+      "traceId": "39b180e865d23a05",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.75cdca14f3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 13_injected.pdf"
       ]
     },
     {
       "id": 60,
-      "ts": "2025-01-20T11:20:19.1813715+01:00",
-      "traceId": "ee2e6631d0043e81",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ecee465368^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:04Z",
+      "traceId": "fc7e5c79727af133",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c1bf9b971d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 14_injected.pdf"
       ]
     },
     {
       "id": 61,
-      "ts": "2025-01-20T11:20:26.4582864+01:00",
-      "traceId": "c0069edbe21026a9",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f4ab36a19a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:04Z",
+      "traceId": "a834fc3bd785f8c5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e8278f1169^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 15_injected.pdf"
       ]
     },
     {
       "id": 62,
-      "ts": "2025-01-20T11:20:33.6542632+01:00",
-      "traceId": "d4826ae6e816e380",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c7de403bfe^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:05Z",
+      "traceId": "e176f10f8ba61277",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7e537e0430^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 16_injected.pdf"
       ]
     },
     {
       "id": 63,
-      "ts": "2025-01-20T11:20:40.6813826+01:00",
-      "traceId": "98fcd692ea7a34e7",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.153be9c043^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:05Z",
+      "traceId": "2511ed4819b7ca0f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d6c921d64c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 5_injected.pdf"
       ]
     },
     {
       "id": 64,
-      "ts": "2025-01-20T11:20:47.7698181+01:00",
-      "traceId": "e49c02d69b576a1d",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.cd658db36d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:06Z",
+      "traceId": "966ad11ac156641a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.92567bb8f6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 6_injected.pdf"
       ]
     },
     {
       "id": 65,
-      "ts": "2025-01-20T11:20:54.865383+01:00",
-      "traceId": "90cb1ecc47f2bfd8",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a1e88754b0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:07Z",
+      "traceId": "c47497d5d1ab8de3",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6bca2271ba^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 7_injected.pdf"
       ]
     },
     {
       "id": 66,
-      "ts": "2025-01-20T11:21:01.9966415+01:00",
-      "traceId": "cd29b2b6be094c9a",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.0d1df836d9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:07Z",
+      "traceId": "7bc4ebe0e7748fa5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4314d8cba9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 8_injected.pdf"
       ]
     },
     {
       "id": 67,
-      "ts": "2025-01-20T11:21:09.1164622+01:00",
-      "traceId": "52985abb95cca702",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.48744168cb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:08Z",
+      "traceId": "98a8c0f04863c71f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.81d17bc005^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 9_injected.pdf"
       ]
     },
     {
       "id": 68,
-      "ts": "2025-01-20T11:21:16.2549659+01:00",
-      "traceId": "a1286af4c08713e5",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.08cf160bf5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:08Z",
+      "traceId": "6a55b7a93848f9b3",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.aae100c2fd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 10_injected.pdf"
       ]
     },
     {
       "id": 69,
-      "ts": "2025-01-20T11:21:23.3499214+01:00",
-      "traceId": "3149518054fb4a37",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c7da1f37c8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:09Z",
+      "traceId": "524d83ef53a783f2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9623c0c92b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 11_injected.pdf"
       ]
     },
     {
       "id": 70,
-      "ts": "2025-01-20T11:21:30.3971282+01:00",
-      "traceId": "9e6645504ec21585",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.df0be2c43e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:10Z",
+      "traceId": "2285cf0830e01e3a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a5bfab5f5e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 12_injected.pdf"
       ]
     },
     {
       "id": 71,
-      "ts": "2025-01-20T11:21:40.6811241+01:00",
-      "traceId": "df48fb6b483d5522",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.968b4a804f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:10Z",
+      "traceId": "cc582f5d33dec802",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7bb7c7cdc5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 13_injected.pdf"
       ]
     },
     {
       "id": 72,
-      "ts": "2025-01-20T11:21:47.8665029+01:00",
-      "traceId": "bdadd06cc1c99262",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.5ce4a8d468^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:11Z",
+      "traceId": "26ddd281301cfcd9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.48abd61cc3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 14_injected.pdf"
       ]
     },
     {
       "id": 73,
-      "ts": "2025-01-20T11:21:55.1470229+01:00",
-      "traceId": "3256b4a7c7b920da",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1d02b631dd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:12Z",
+      "traceId": "1bc24d4860a58760",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d51bbed5b5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 15_injected.pdf"
       ]
     },
     {
       "id": 74,
-      "ts": "2025-01-20T11:22:02.5139544+01:00",
-      "traceId": "8c8162efdff0342f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.daa0d894cc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:13Z",
+      "traceId": "873779a7d36f8c3f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.22f6037de8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 16_injected.pdf"
       ]
     },
     {
       "id": 75,
-      "ts": "2025-01-20T11:22:09.8064041+01:00",
-      "traceId": "4421d44060a06ddd",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.af942e0cd3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:13Z",
+      "traceId": "346068bfeb482282",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.41d3a5ab2f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 5_injected.pdf"
       ]
     },
     {
       "id": 76,
-      "ts": "2025-01-20T11:22:17.0865716+01:00",
-      "traceId": "9d7e408ba868f44e",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.638488b46c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:14Z",
+      "traceId": "abd617990ecba3b0",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3735173e86^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 6_injected.pdf"
       ]
     },
     {
       "id": 77,
-      "ts": "2025-01-20T11:22:24.4586198+01:00",
-      "traceId": "142a41dc9a2a772e",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.eba3d6a6e9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:14Z",
+      "traceId": "c93da826fdfce91a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.50562cd7e2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 7_injected.pdf"
       ]
     },
     {
       "id": 78,
-      "ts": "2025-01-20T11:22:31.6517544+01:00",
-      "traceId": "96619dbb02f4ea41",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1d9f2785f5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:15Z",
+      "traceId": "3debae22f2608a38",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4ab0f83ded^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 8_injected.pdf"
       ]
     },
     {
       "id": 79,
-      "ts": "2025-01-20T11:22:38.9348867+01:00",
-      "traceId": "94915763a713763f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c48e7c3eef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:16Z",
+      "traceId": "33996539c10b141f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d03be600e8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 9_injected.pdf"
       ]
     },
     {
       "id": 80,
-      "ts": "2025-01-20T11:22:46.1748474+01:00",
-      "traceId": "6b8889903a07b592",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.eb0afe5b14^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:16Z",
+      "traceId": "2cd22edd7cc06f52",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e47ad062b1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 10_injected.pdf"
       ]
     },
     {
       "id": 81,
-      "ts": "2025-01-20T11:22:53.69877+01:00",
-      "traceId": "dac8150a291f7bb8",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1b5584e734^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:17Z",
+      "traceId": "a7085880048ade5a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d8b9e4e0e9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 11_injected.pdf"
       ]
     },
     {
       "id": 82,
-      "ts": "2025-01-20T11:23:00.9141341+01:00",
-      "traceId": "469074964d0c703c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c2339a68a5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:18Z",
+      "traceId": "91cf00c68ffdf67e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e74ad78624^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 12_injected.pdf"
       ]
     },
     {
       "id": 83,
-      "ts": "2025-01-20T11:23:08.2078316+01:00",
-      "traceId": "9c69fbbd0458b771",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a94a476e83^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:18Z",
+      "traceId": "dedd318250c1b12a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.8525e632cd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 13_injected.pdf"
       ]
     },
     {
       "id": 84,
-      "ts": "2025-01-20T11:23:15.4971475+01:00",
-      "traceId": "f2e6dd8fccf44886",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bea058b8da^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:19Z",
+      "traceId": "fdef21ad76745a0f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6195f958bd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 14_injected.pdf"
       ]
     },
     {
       "id": 85,
-      "ts": "2025-01-20T11:23:22.6917223+01:00",
-      "traceId": "7ba1429320035797",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.005d447cb1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:20Z",
+      "traceId": "8fe5ffeedbc18cfd",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.df729f5735^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 15_injected.pdf"
       ]
     },
     {
       "id": 86,
-      "ts": "2025-01-20T11:23:30.53067+01:00",
-      "traceId": "d3a9003323398644",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9ffaa65fcf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:20Z",
+      "traceId": "a43f8be179f591bd",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d27e1288b7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 16_injected.pdf"
       ]
     },
     {
       "id": 87,
-      "ts": "2025-01-20T11:23:37.7238115+01:00",
-      "traceId": "afb45541191a8055",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.158a4ecb6d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:21Z",
+      "traceId": "d6a0c9dd186cb568",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.fcdc1dda17^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 17_injected.pdf"
       ]
     },
     {
       "id": 88,
-      "ts": "2025-01-20T11:23:45.0020984+01:00",
-      "traceId": "71e66bb2786a6125",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e0d2a330f4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:22Z",
+      "traceId": "140100291aba931c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9a6deecc69^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 18_injected.pdf"
       ]
     },
     {
       "id": 89,
-      "ts": "2025-01-20T11:23:52.3936948+01:00",
-      "traceId": "26272d60c3f04f23",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.b24284ec12^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:22Z",
+      "traceId": "7944af61ff3dab45",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.cbd5f398ba^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 19_injected.pdf"
       ]
     },
     {
       "id": 90,
-      "ts": "2025-01-20T11:23:59.6594552+01:00",
-      "traceId": "1345d9bdd6014b9b",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a5be558c45^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:23Z",
+      "traceId": "46a55a921ab8d32c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.fa2f53c787^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 20_injected.pdf"
       ]
     },
     {
       "id": 91,
-      "ts": "2025-01-20T11:24:06.8136339+01:00",
-      "traceId": "43eab952126eab34",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7900d5680d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:24Z",
+      "traceId": "545416ea84ac520b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.af8956bf29^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 21_injected.pdf"
       ]
     },
     {
       "id": 92,
-      "ts": "2025-01-20T11:24:16.5346087+01:00",
-      "traceId": "8008c5a22ef06edd",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7d125498ca^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:25Z",
+      "traceId": "f42577de8832111b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ea807b8430^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 22_injected.pdf"
       ]
     },
     {
       "id": 93,
-      "ts": "2025-01-20T11:24:24.3906042+01:00",
-      "traceId": "19966e51bba29df7",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.604ba8d2b0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:25Z",
+      "traceId": "cab57f77b6f68d9b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.fc0bf43360^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 23_injected.pdf"
       ]
     },
     {
       "id": 122,
-      "ts": "2025-01-20T11:24:31.750687+01:00",
-      "traceId": "3da8811b3e7a6031",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.5a1f25dac5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:26Z",
+      "traceId": "7af4477b55c13ce9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3acaf7437e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 5_injected.pdf"
       ]
     },
     {
       "id": 123,
-      "ts": "2025-01-20T11:24:39.0407271+01:00",
-      "traceId": "f9f33dfd719b8ab7",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1d67bb70bc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:27Z",
+      "traceId": "09b23d1bf4c22294",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9805aa3b29^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 6_injected.pdf"
       ]
     },
     {
       "id": 124,
-      "ts": "2025-01-20T11:24:46.1979362+01:00",
-      "traceId": "1e5c6b705b9614c8",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bd9a4762f4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:27Z",
+      "traceId": "614af6f1c0a696e2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.23978a5b4d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 7_injected.pdf"
       ]
     },
     {
       "id": 125,
-      "ts": "2025-01-20T11:24:53.4344436+01:00",
-      "traceId": "2078ce8f532c08dd",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a3665fa557^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:28Z",
+      "traceId": "8d5ac380b3ed6c5a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bee7711c1e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 8_injected.pdf"
       ]
     },
     {
       "id": 126,
-      "ts": "2025-01-20T11:25:00.6118046+01:00",
-      "traceId": "33dad2f2d2de48ec",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4bfcbcb092^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:29Z",
+      "traceId": "77fcaa33f5b8e32e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.119a00d9e3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 9_injected.pdf"
       ]
     },
     {
       "id": 127,
-      "ts": "2025-01-20T11:25:07.8841419+01:00",
-      "traceId": "66ae5454dcb0eef1",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e1b1164f6d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:29Z",
+      "traceId": "0e150924c65ba2d8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.b223e4fb99^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 10_injected.pdf"
       ]
     },
     {
       "id": 128,
-      "ts": "2025-01-20T11:25:16.1226088+01:00",
-      "traceId": "7783b916aec0e5e6",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7a81846af3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:30Z",
+      "traceId": "8ac7907639db0fd4",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.474816869b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 11_injected.pdf"
       ]
     },
     {
       "id": 129,
-      "ts": "2025-01-20T11:25:25.2568698+01:00",
-      "traceId": "b3de1178b06cc2a4",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bc7887fa86^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:30Z",
+      "traceId": "c3e68e3ee78c95c1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.cfcb06541f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 12_injected.pdf"
       ]
     },
     {
       "id": 130,
-      "ts": "2025-01-20T11:25:32.9129948+01:00",
-      "traceId": "bfceb32f2d96593b",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d0b4a93836^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:31Z",
+      "traceId": "36ca9157ff7cd8b7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.041d2e2d0d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 13_injected.pdf"
       ]
     },
     {
       "id": 131,
-      "ts": "2025-01-20T11:25:41.3981524+01:00",
-      "traceId": "df491f27146e56e9",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9bf9adb347^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:31Z",
+      "traceId": "5fca9eda33b20ca1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ff87f8f4a8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 14_injected.pdf"
       ]
     },
     {
       "id": 132,
-      "ts": "2025-01-20T11:25:48.8587144+01:00",
-      "traceId": "37dd0583d29c43e8",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.9c4052ccd2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:32Z",
+      "traceId": "5217d8129d551926",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e68affb536^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 15_injected.pdf"
       ]
     },
     {
       "id": 133,
-      "ts": "2025-01-20T11:25:56.442437+01:00",
-      "traceId": "d85d367c789a3f65",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4061c147bb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:32Z",
+      "traceId": "5095027dc56c18b8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ee65bfafbe^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 16_injected.pdf"
       ]
     },
     {
       "id": 134,
-      "ts": "2025-01-20T11:26:04.182286+01:00",
-      "traceId": "f44a53af399803ab",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a7aa6bc25c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:33Z",
+      "traceId": "66c4b464dd6101bb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ab7fd759c2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 17_injected.pdf"
       ]
     },
     {
       "id": 135,
-      "ts": "2025-01-20T11:26:11.7568737+01:00",
-      "traceId": "896ce30aeaf3cc37",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bc6d778ee0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:34Z",
+      "traceId": "9c7fa9d15f4e57a6",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.acea605a8a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 18_injected.pdf"
       ]
     },
     {
       "id": 136,
-      "ts": "2025-01-20T11:26:19.3127741+01:00",
-      "traceId": "8dd26d0e5a1b8575",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4d21000b26^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:35Z",
+      "traceId": "b8a7cc4960856c54",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ad3f866611^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 19_injected.pdf"
       ]
     },
     {
       "id": 137,
-      "ts": "2025-01-20T11:26:26.639872+01:00",
-      "traceId": "67d7c8bf09b6a1b6",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ce2ae30f8d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:36Z",
+      "traceId": "81c773742f7c480b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f278b7cfba^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 20_injected.pdf"
       ]
     },
     {
       "id": 138,
-      "ts": "2025-01-20T11:26:33.9856715+01:00",
-      "traceId": "10118f27b62bb75c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e34fe512bb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:36Z",
+      "traceId": "ebb5b4e3765e42c0",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e80e786784^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 21_injected.pdf"
       ]
     },
     {
       "id": 139,
-      "ts": "2025-01-20T11:26:41.381619+01:00",
-      "traceId": "817b25bcb14d876d",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f328dca023^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:37Z",
+      "traceId": "500a60b81af8be08",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.07d4801c9a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 22_injected.pdf"
       ]
     },
     {
       "id": 140,
-      "ts": "2025-01-20T11:26:48.6663218+01:00",
-      "traceId": "664cf4782685d5c4",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.cbee5f4412^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:37Z",
+      "traceId": "627de82cde9a613e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.81cfc36804^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 23_injected.pdf"
       ]
     },
     {
       "id": 141,
-      "ts": "2025-01-20T11:26:56.0131746+01:00",
-      "traceId": "24052e44f6759427",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e0d9182fa0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:38Z",
+      "traceId": "9c82f8b001719cd5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.0df4c02299^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 24_injected.pdf"
       ]
     },
     {
       "id": 142,
-      "ts": "2025-01-20T11:27:03.5163679+01:00",
-      "traceId": "52d2925b3b525052",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.74c33c2cab^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:39Z",
+      "traceId": "dd109c2e4dee1313",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.68b72fe5be^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 25_injected.pdf"
       ]
     },
     {
       "id": 143,
-      "ts": "2025-01-20T11:27:11.0226099+01:00",
-      "traceId": "64acbfc45a010ef4",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.23c2b4c79e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:39Z",
+      "traceId": "b1f1f29280d9edfc",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4735a8d91f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 26_injected.pdf"
       ]
     },
     {
       "id": 144,
-      "ts": "2025-01-20T11:27:18.6891725+01:00",
-      "traceId": "1599b11dad719905",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.283e30f140^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:40Z",
+      "traceId": "2edd1b22ca4abd98",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f87e8a9122^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 27_injected.pdf"
       ]
     },
     {
       "id": 145,
-      "ts": "2025-01-20T11:27:26.3773301+01:00",
-      "traceId": "65615bf1c7b0dcbd",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e803a366f5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:41Z",
+      "traceId": "ed014da8a082e80e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.0d9250e153^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 28_injected.pdf"
       ]
     },
     {
       "id": 146,
-      "ts": "2025-01-20T11:27:33.6534881+01:00",
-      "traceId": "13461fffa2cac803",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c2b68e1107^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:41Z",
+      "traceId": "653e6fb2decfbde8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ca1cc964e3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 29_injected.pdf"
       ]
     },
     {
       "id": 147,
-      "ts": "2025-01-20T11:27:34.2567478+01:00",
-      "traceId": "e819ff18f95171ff",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.e2fedcc236^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:42Z",
+      "traceId": "82aff8aeb6cb81b0",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bcc58fd6da^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 148,
-      "ts": "2025-01-20T11:27:34.9968009+01:00",
-      "traceId": "2d804fa5d6c231ab",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c5025885e7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:43Z",
+      "traceId": "56499f8202162910",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1a291e585d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 2_injected.pdf"
       ]
     },
     {
       "id": 149,
-      "ts": "2025-01-20T11:27:35.578051+01:00",
-      "traceId": "513dca5dc945219c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d940ff4df5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:43Z",
+      "traceId": "a652440d9e3138a1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.60fb418475^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 3_injected.pdf"
       ]
     },
     {
       "id": 150,
-      "ts": "2025-01-20T11:27:36.2870084+01:00",
-      "traceId": "b91f20689e0de045",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6276a8681a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:44Z",
+      "traceId": "49875cd2392077a4",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a4770a2a65^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 4_injected.pdf"
       ]
     },
     {
       "id": 151,
-      "ts": "2025-01-20T11:27:43.3980197+01:00",
-      "traceId": "28531806d4997a68",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a86c05c787^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:45Z",
+      "traceId": "3c1a7a6b5222efb5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d8d23095e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 5_injected.pdf"
       ]
     },
     {
       "id": 152,
-      "ts": "2025-01-20T11:27:50.492939+01:00",
-      "traceId": "5c10e58b69df28fa",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.465bf7e81f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:45Z",
+      "traceId": "07597cfe854bba8e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.cb32866d1c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 6_injected.pdf"
       ]
     },
     {
       "id": 153,
-      "ts": "2025-01-20T11:27:57.7803902+01:00",
-      "traceId": "e2b24e1a977413ac",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bfb6390a9f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:46Z",
+      "traceId": "b41cc392275f81db",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f30db2cca5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 7_injected.pdf"
       ]
     },
     {
       "id": 154,
-      "ts": "2025-01-20T11:28:04.8997223+01:00",
-      "traceId": "38c95b7d9f485c24",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bb966075af^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:46Z",
+      "traceId": "1662bbb06936e072",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1c977c0eaf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 8_injected.pdf"
       ]
     },
     {
       "id": 155,
-      "ts": "2025-01-20T11:28:12.0338554+01:00",
-      "traceId": "15c264fc249cd1e5",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f41b4309d4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:47Z",
+      "traceId": "b5c7e676f75954f2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.b5ae7ed39a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 9_injected.pdf"
       ]
     },
     {
       "id": 156,
-      "ts": "2025-01-20T11:28:19.6430851+01:00",
-      "traceId": "0bd97e946dd9051f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ea90fb6bfd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:48Z",
+      "traceId": "8fd4c598a6edcf5c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d8a40ee827^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 10_injected.pdf"
       ]
     },
     {
       "id": 157,
-      "ts": "2025-01-20T11:28:26.9278956+01:00",
-      "traceId": "2f5d873db4b09b63",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6f0d209be3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:48Z",
+      "traceId": "7df9f615bffec13f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.33b4665188^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 11_injected.pdf"
       ]
     },
     {
       "id": 158,
-      "ts": "2025-01-20T11:28:34.2048528+01:00",
-      "traceId": "9410b7e6f6094417",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4c7f4c6c9d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:49Z",
+      "traceId": "694429c8668133dd",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.a9f06e914a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 12_injected.pdf"
       ]
     },
     {
       "id": 159,
-      "ts": "2025-01-20T11:28:41.6127826+01:00",
-      "traceId": "2d969d75c66e40ed",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.990fea1829^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:50Z",
+      "traceId": "ab96a29198f9cac2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.8fb8bbffe1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 13_injected.pdf"
       ]
     },
     {
       "id": 160,
-      "ts": "2025-01-20T11:28:48.6841245+01:00",
-      "traceId": "61fc0a96c229cbef",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.11a440f5c6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:50Z",
+      "traceId": "f8ff940136eebe38",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.34b89dac7f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 14_injected.pdf"
       ]
     },
     {
       "id": 161,
-      "ts": "2025-01-20T11:28:55.8636293+01:00",
-      "traceId": "7007b0ca37a9bf22",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.074228a4bf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:51Z",
+      "traceId": "6547d7bdeeb9495f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1742a30a42^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 15_injected.pdf"
       ]
     },
     {
       "id": 162,
-      "ts": "2025-01-20T11:29:03.0168231+01:00",
-      "traceId": "cd318bbb05ca62ee",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d6fa46af23^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:52Z",
+      "traceId": "cd09c461eadf788b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1da49e4e69^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 16_injected.pdf"
       ]
     },
     {
       "id": 163,
-      "ts": "2025-01-20T11:29:10.2731577+01:00",
-      "traceId": "e7f5031c51a3ab7f",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.d8273eb2f6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:52Z",
+      "traceId": "f2eec3f4acb8798b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f50811fb91^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 17_injected.pdf"
       ]
     },
     {
       "id": 164,
-      "ts": "2025-01-20T11:29:17.4115748+01:00",
-      "traceId": "9860d2e00daefb4e",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.dffd11c1d1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:53Z",
+      "traceId": "8aa3a12cd04d58ab",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.f247dc75e5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 18_injected.pdf"
       ]
     },
     {
       "id": 165,
-      "ts": "2025-01-20T11:29:28.5540302+01:00",
-      "traceId": "f9fc93b2bd655767",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.5ea62caa9a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:53Z",
+      "traceId": "89ec932ceee6d64d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1b4ab8549b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 19_injected.pdf"
       ]
     },
     {
       "id": 166,
-      "ts": "2025-01-20T11:29:35.8990569+01:00",
-      "traceId": "cb3faff53cae3d50",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.712e33f1fc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:54Z",
+      "traceId": "3c2d08420c797a8b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3d81d8579e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 20_injected.pdf"
       ]
     },
     {
       "id": 167,
-      "ts": "2025-01-20T11:29:43.0703982+01:00",
-      "traceId": "8d040309a89ae934",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7a2e59c98a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:54Z",
+      "traceId": "920abb097514d7e3",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.bc15a02e3e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 21_injected.pdf"
       ]
     },
     {
       "id": 168,
-      "ts": "2025-01-20T11:29:50.2854529+01:00",
-      "traceId": "e98c2812a3a91eb7",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.c21f2fd7a5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:55Z",
+      "traceId": "2286249e5477b38c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.871162a3c9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 22_injected.pdf"
       ]
     },
     {
       "id": 169,
-      "ts": "2025-01-20T11:29:57.46308+01:00",
-      "traceId": "e045304d496121c1",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.4ce5927068^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:56Z",
+      "traceId": "3b127240c45396a8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.7223d64451^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 23_injected.pdf"
       ]
     },
     {
       "id": 191,
-      "ts": "2025-01-20T11:29:58.1667607+01:00",
-      "traceId": "8bf69c068bc8af4e",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6a9eae340e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:56Z",
+      "traceId": "b44d376da84c4adc",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6762381a46^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - TRASF Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 368,
-      "ts": "2025-01-20T11:29:58.8583609+01:00",
-      "traceId": "8faf6f5e1b14b3d5",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.90b09977ad^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:57Z",
+      "traceId": "eda8b01d9976a44a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3aa0fa5af2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - Caso di Test 0_injected.pdf"
       ]
     },
     {
       "id": 369,
-      "ts": "2025-01-20T11:29:59.7505396+01:00",
-      "traceId": "006dc4d63b324ba9",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.2cc9e9811a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:58Z",
+      "traceId": "a16701cfa67e5dcb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.3c9593e4c2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LDO - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 373,
-      "ts": "2025-01-20T11:30:00.4503355+01:00",
-      "traceId": "080ac5f85c9901f6",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.42250226e8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:58Z",
+      "traceId": "f5ceafc9de96ccbf",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.6e060de1df^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "VPS - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 374,
-      "ts": "2025-01-20T11:30:01.8333991+01:00",
-      "traceId": "af0b890565f05c4c",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.2a40ead2eb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:59Z",
+      "traceId": "fe62943c62d6edc0",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.1bd1f12cb5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RSA - Caso di Test 0_injected.pdf"
       ]
     },
     {
       "id": 376,
-      "ts": "2025-01-20T11:30:02.6764024+01:00",
-      "traceId": "e461a8370fdc10d7",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.8ae1811f48^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:21:59Z",
+      "traceId": "4fdee351c98c7dbb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.11729d1f04^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "LAB - TRASF Caso di Test 2_injected.pdf"
       ]
     },
     {
       "id": 446,
-      "ts": "2025-01-20T11:30:03.4364342+01:00",
-      "traceId": "6d9d696d6b6adba5",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.128f4d15fc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:22:00Z",
+      "traceId": "f4c173a8efb04e7c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.ce1f517f19^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 1_injected.pdf"
       ]
     },
     {
       "id": 447,
-      "ts": "2025-01-20T11:30:04.0167708+01:00",
-      "traceId": "06d9de80b0e897f9",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.2c442a55ba^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "ts": "2025-01-30T08:22:01Z",
+      "traceId": "d63889ae6f71b35a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.1ce4de178c446b6eb1159788ddd0f41518e1700c4c2b72570b9fb1a5e9a06d82.0e12f5d0f3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
       "files": [
         "RAD - Caso di Test 2_injected.pdf"
       ]

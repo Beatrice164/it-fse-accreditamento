@@ -1,0 +1,16 @@
+{
+    "appVendor": "Replycare s.r.l.",
+    "appID": "Med58",
+    "appVersion": "V.1.0.0",
+    "results": [
+        {
+            "id": 448,
+            "ts": "2025-09-23T07:19:59Z",
+            "traceId": "f52034d7da53734ac1d19c924c54c106",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.ba80ab8fc9448e3415859a7372caee1392cfdf2fdbbb7a6041718f1e61d2f3cb.4c7000a530^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "T448_VALIDATION.pdf"
+            ]
+        }
+    ]
+}
